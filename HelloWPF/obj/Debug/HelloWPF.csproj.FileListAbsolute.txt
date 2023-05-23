@@ -1,0 +1,16 @@
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe.config
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\bin\Debug\HelloWPF.pdb
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.AssemblyReference.cache
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.SuggestedBindingRedirects.cache
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\obj\Debug\MainWindow.g.cs
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\obj\Debug\App.g.cs
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.cache
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.lref
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\obj\Debug\MainWindow.baml
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\obj\Debug\HelloWPF.g.resources
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\obj\Debug\HelloWPF.Properties.Resources.resources
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.GenerateResource.cache
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.CoreCompileInputs.cache
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\obj\Debug\HelloWPF.exe
+D:\MY_CODE\VISUAL CPP\HelloWPF\HelloWPF\obj\Debug\HelloWPF.pdb
